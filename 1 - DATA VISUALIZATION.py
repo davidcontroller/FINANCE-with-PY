@@ -12,7 +12,6 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt 
 import matplotlib.dates as mdates
 import plotly.offline as plyo
-import cufflinks as cf
 from datetime import datetime
 import seaborn as sn
 plt.style.use('seaborn') 
